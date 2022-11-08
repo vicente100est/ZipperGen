@@ -1,0 +1,10 @@
+C:\Users\vicen\Desktop\lab\.NetCore_Esencial\zip2\zipper\bin\Release\netcoreapp3.1\zipper.deps.json
+C:\Users\vicen\Desktop\lab\.NetCore_Esencial\zip2\zipper\bin\Release\netcoreapp3.1\zipper.dll
+C:\Users\vicen\Desktop\lab\.NetCore_Esencial\zip2\zipper\bin\Release\netcoreapp3.1\zipper.pdb
+C:\Users\vicen\Desktop\lab\.NetCore_Esencial\zip2\zipper\obj\Release\netcoreapp3.1\zipper.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\.NetCore_Esencial\zip2\zipper\obj\Release\netcoreapp3.1\zipper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\.NetCore_Esencial\zip2\zipper\obj\Release\netcoreapp3.1\zipper.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\.NetCore_Esencial\zip2\zipper\obj\Release\netcoreapp3.1\zipper.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\.NetCore_Esencial\zip2\zipper\obj\Release\netcoreapp3.1\zipper.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\.NetCore_Esencial\zip2\zipper\obj\Release\netcoreapp3.1\zipper.dll
+C:\Users\vicen\Desktop\lab\.NetCore_Esencial\zip2\zipper\obj\Release\netcoreapp3.1\zipper.pdb

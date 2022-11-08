@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+	<Description>Empacador de folders en Zip</Description>
+	<Authors>Vicente Estrada Dominguez</Authors>
+	<Company>VicentC0de</Company>
+	<Product>Zip</Product>
+	<PackageId>VicentC0de.Zipper</PackageId>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>

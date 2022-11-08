@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>VicentC0de.Zipper</id>
+    <version>1.0.0</version>
+    <authors>Vicente Estrada Dominguez</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Empacador de folders en Zip</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\vicen\Desktop\lab\.NetCore_Esencial\zip2\zipper\bin\Release\netcoreapp3.1\zipper.dll" target="lib\netcoreapp3.1\zipper.dll" />
+  </files>
+</package>
